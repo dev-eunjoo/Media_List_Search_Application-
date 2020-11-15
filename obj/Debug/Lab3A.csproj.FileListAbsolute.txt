@@ -1,0 +1,7 @@
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 3\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
